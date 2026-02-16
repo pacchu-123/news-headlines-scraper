@@ -35,3 +35,9 @@ The headlines are saved automatically into a text file.
 pip install requests beautifulsoup4
 python news_scraper.py
 
+
+---
+
+##  Output Screenshot
+
+![Output Screenshot](output.jng)
