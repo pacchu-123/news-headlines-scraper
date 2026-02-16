@@ -1,4 +1,4 @@
-# 📰 News Headlines Web Scraper
+#  News Headlines Web Scraper
 
 ## Project Overview
 This project is a simple Python web scraper that extracts top news headlines
@@ -35,6 +35,3 @@ python news_scraper.py
 ## Output Screenshot
 ![Output Screenshot](output.jpg)
 
-
-## Author
-Your Name
