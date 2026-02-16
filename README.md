@@ -29,7 +29,7 @@ python news_scraper.py
 ## Project Files
 - news_scraper.py → Python scraper code
 - head_lines.txt → Output headlines
-- output.png → Screenshot (optional)
+- output.jpg → Screenshot 
 - README.md → Documentation
 
 ## Output Screenshot
